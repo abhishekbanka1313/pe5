@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class MainTest {
+public class StudentMain {
     public List<Student> studentInfo() {
-        Student obj1 = new Student(1, "Swetha", 22);
-        Student obj2 = new Student(3, "Sonu", 24);
-        Student obj3 = new Student(2, "Bhanu", 20);
-        Student obj4 = new Student(4, "Evangeline", 10);
-        Student obj5 = new Student(5, "Jaanu", 22);
+        Student obj1 = new Student(1, "Abhishek", 23);
+        Student obj2 = new Student(3, "Anjali", 25);
+        Student obj3 = new Student(2, "Vaibhav", 27);
+        Student obj4 = new Student(4, "Ishu", 23);
+        Student obj5 = new Student(5, "Kishlay", 24);
         List<Student> list = new ArrayList<Student>();
         list.add(obj1);
         list.add(obj2);

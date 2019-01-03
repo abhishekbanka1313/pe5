@@ -9,12 +9,12 @@ import java.util.Set;
 
 import static org.junit.Assert.*;
 
-public class SortSetIntoArrayTest {
+public class SortedSetTest {
 
-    SortSetIntoArray obj;
+    SortedSet obj;
     @Before
     public void setUp() throws Exception {
-        obj = new SortSetIntoArray();
+        obj = new SortedSet();
     }
 
     @After

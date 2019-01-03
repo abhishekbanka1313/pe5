@@ -9,12 +9,12 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
-public class ModifyKeyValueTest {
+public class ChangeKeyTest {
 
-    ModifyKeyValue obj;
+    ChangeKey obj;
     @Before
     public void setUp() throws Exception {
-        obj = new ModifyKeyValue();
+        obj = new ChangeKey();
     }
 
     @After
@@ -29,8 +29,8 @@ public class ModifyKeyValueTest {
         input.put("value2","saturn");
         System.out.println(input);
         Map<String,String> result=new HashMap<String, String>();
-        result.put("value1"," ");
-        result.put("value2","mars");
+        result.put("value1","mars");
+        result.put("value2","saturn");
         System.out.println(result);
         assertEquals(result,obj.modifyKeyValueInMap(input));
     }
@@ -41,8 +41,8 @@ public class ModifyKeyValueTest {
         input.put("value2","C++");
         System.out.println(input);
         Map<String,String> result=new HashMap<String, String>();
-        result.put("value1"," ");
-        result.put("value2","mars");
+        result.put("value1","JAVA");
+        result.put("value2","C++");
         System.out.println(result);
         assertEquals(result,obj.modifyKeyValueInMap(input));
     }

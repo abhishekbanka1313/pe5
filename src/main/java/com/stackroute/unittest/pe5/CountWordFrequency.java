@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
     Output : {"one":5 , "two":2, "three" :2}
 
  */
-public class CountStringFrequency {
+public class CountWordFrequency {
     public Map<String,Integer> CountFreqOfWords(String match){
         //    str = "one one -one___two,,three,one @three*one?two";
         String strRegexOne="one";

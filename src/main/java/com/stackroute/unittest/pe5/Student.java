@@ -1,7 +1,6 @@
 package com.stackroute.unittest.pe5;
 
 public class Student {
-    /* Private Member variables of student class*/
     private int id;
     private String name;
     private int age;

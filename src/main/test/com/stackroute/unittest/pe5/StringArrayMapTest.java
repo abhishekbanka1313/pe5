@@ -4,18 +4,17 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.lang.reflect.Array;
 import java.util.HashMap;
 import java.util.Map;
 
 import static org.junit.Assert.*;
 
-public class ArrayStringToMapTest {
+public class StringArrayMapTest {
 
-    ArrayStringToMap obj;
+    StringArrayMap obj;
     @Before
     public void setUp() throws Exception {
-        obj = new ArrayStringToMap();
+        obj = new StringArrayMap();
     }
 
     @After

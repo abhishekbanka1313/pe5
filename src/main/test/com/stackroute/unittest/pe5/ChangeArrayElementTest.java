@@ -4,17 +4,12 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+public class ChangeArrayElementTest {
 
-import static org.junit.Assert.*;
-
-public class UpdateArrayElementTest {
-
-    UpdateArrayElement obj;
+    ChangeArrayElement obj;
     @Before
     public void setUp() throws Exception {
-        obj=new UpdateArrayElement();
+        obj=new ChangeArrayElement();
     }
 
     @After
