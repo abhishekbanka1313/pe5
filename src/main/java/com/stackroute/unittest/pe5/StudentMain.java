@@ -17,14 +17,12 @@ public class StudentMain {
         list.add(obj3);
         list.add(obj4);
         list.add(obj5);
-        System.out.println(list);
 
         Collections.sort(list, new StudentSorter());
 
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i).getId() + " " + list.get(i).getName() + " " + list.get(i).getAge());
         }
-        System.out.println(list);
         return list;
     }
 }

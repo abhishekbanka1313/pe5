@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class ChangeArrayElement {
+
     public static void main(String[] args) {
 
 

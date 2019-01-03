@@ -30,7 +30,7 @@ public class CountWordFrequencyTest {
         freq.put("one",5);
         freq.put("two",2);
         freq.put("three",2);
-        assertEquals(freq,obj.CountFreqOfWords(str));
+        assertEquals(freq,obj.countFreqOfWords(str));
     }
     @Test
     public void countFreqOfWords1() {
@@ -39,7 +39,7 @@ public class CountWordFrequencyTest {
         freq.put("one", 5);
         freq.put("two", 2);
         freq.put("three", 2);
-        assertEquals(freq, obj.CountFreqOfWords(str));
+        assertEquals(freq, obj.countFreqOfWords(str));
     }
     @Test
     public void countFreqOfWords2() {
@@ -48,7 +48,7 @@ public class CountWordFrequencyTest {
         freq.put("one", 5);
         freq.put("two", 2);
         freq.put("three", 2);
-        assertEquals(freq, obj.CountFreqOfWords(str));
+        assertEquals(freq, obj.countFreqOfWords(str));
     }
 
 }

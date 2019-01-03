@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b04b7f0-c1f3-4671-a5dc-5585c0dbb369" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ArrayStringToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StringArrayMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/CountStringFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/CountWordFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ModifyKeyValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/SortSetIntoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/SortedSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/UpdateArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ArrayStringToMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StringArrayMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/CountStringFrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/CountWordFrequencyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/MainTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ModifyKeyValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ChangeKeyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/SortSetIntoArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/SortedSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/UpdateArrayElementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ChangeArrayElementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ChangeArrayElementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,23 +54,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="270">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentSorter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -82,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StringArrayMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
+            <state relative-caret-position="270">
               <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/CountWordFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            <state relative-caret-position="725">
+              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1415#1432#0" expanded="true" />
@@ -107,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="165">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="e#272#273#0" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
@@ -190,11 +177,11 @@
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StudentTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/CountStringFrequencyTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ModifyKeyValueTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StringArrayMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeKey.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/SortedSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java" />
       </list>
     </option>
   </component>
@@ -272,7 +259,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546495481564" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546495975428" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -437,12 +424,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="com_stackroute_unittest_pe5_in_unittest - 2019.01.03 at 09h 32m 47s.xml">
-      <configuration name="com.stackroute.unittest.pe5 in unittest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_stackroute_unittest_pe5_in_unittest - 2019.01.03 at 09h 33m 12s.xml">
-      <configuration name="com.stackroute.unittest.pe5 in unittest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="com_stackroute_unittest_pe5_in_unittest - 2019.01.03 at 09h 36m 53s.xml">
       <configuration name="com.stackroute.unittest.pe5 in unittest" configurationId="JUnit" />
     </history-entry>
@@ -467,12 +448,18 @@
     <history-entry file="com_stackroute_unittest_pe5_in_unittest - 2019.01.03 at 09h 44m 34s.xml">
       <configuration name="com.stackroute.unittest.pe5 in unittest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_stackroute_unittest_pe5_in_unittest - 2019.01.03 at 11h 31m 39s.xml">
+      <configuration name="com.stackroute.unittest.pe5 in unittest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_stackroute_unittest_pe5_in_unittest - 2019.01.03 at 11h 34m 46s.xml">
+      <configuration name="com.stackroute.unittest.pe5 in unittest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -484,7 +471,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29153094" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29153094" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -559,13 +546,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/EmployeeEmailTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentInfo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ChangeArrayElementTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -597,10 +577,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/SortedSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StringArrayMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/ChangeArrayElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/CountWordFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1415#1432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StringArrayMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/SortedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="e#272#273#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
@@ -620,67 +666,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StudentMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/StringArrayMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/SortedSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe5/StringArrayMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/CountWordFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1415#1432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/SortedSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe5/ChangeArrayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="270">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
